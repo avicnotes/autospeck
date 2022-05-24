@@ -11,3 +11,11 @@
   padding-bottom: 20px;
 }
 
+.navbar-item img {
+  max-height: 4.5 rem;
+}
+
+.navbar-burger {
+  height: 5.5rem;
+  width: 5.5 rem;
+}
