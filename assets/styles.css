@@ -11,14 +11,15 @@
   padding-bottom: 20px;
 }
 
-.navbar-item img {
-  max-height: 4.5rem;
-}
+/*.navbar-item img {
+  max-height: 3rem;
+}*/
 
-.navbar-burger {
+
+/*.navbar-burger {
   height: 5.5rem;
   width: 5.5rem;
-}
+}*/
 
 .icon {
   width: 50px;
