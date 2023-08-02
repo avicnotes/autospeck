@@ -28,7 +28,7 @@ title: Products
           </p>
       </div>
       <div class="col-12 col-lg-5">
-          <img class="img-fluid" src="images/serpentine-belt-on-engine-big.jpg">
+          <img class="img-fluid" src="/assets/images/serpentine-belt-on-engine-big.jpg">
       </div>
     </div>
     <div class="row py-5" id="v-belts">
@@ -45,7 +45,7 @@ title: Products
             </p>
         </div>
         <div class="col-12 col-lg-5">
-            <img class="img-fluid" src="images/cogged-v-belt-on-engine.jpg">
+            <img class="img-fluid" src="/assets/images/cogged-v-belt-on-engine.jpg">
         </div>
     </div>
     <div class="row py-5" id="timing-belts">
@@ -62,7 +62,7 @@ title: Products
         </p>
       </div>
       <div class="col-12 col-lg-5">
-        <img class="img-fluid" src="images/timing-belt-closeup.jpg">
+        <img class="img-fluid" src="/assets/images/timing-belt-closeup.jpg">
       </div>
     </div>
   </div>
