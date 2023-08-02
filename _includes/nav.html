@@ -1,28 +1,28 @@
-<nav class="navbar">
+<nav class="navbar navbar-expand-lg bg-secondary-custom border-bottom">
   <div class="container">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="{{ site.baseurl }}/">
-        <img src="/assets/img/autospeck-belts-logo.png" height="28" alt="Autospeck Motor Spares">
-      </a>
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div id="navMenu" class="navbar-menu">
-      <div class="navbar-end">
-        <a href="#belt-types" class="navbar-item" >
-          Belt Types
-        </a>
-        <a href="#belts-uses" class="navbar-item">
-          Belts Usage
-        </a>
-      </div>
-        <a href="#autospeck-contacts" class="navbar-item">
-          Contacts
-        </a>
-      </div>
+    <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="/assets/images/autospeck-belts-centre-logo.svg" alt="Autospeck Motor Spares Logo" height="50"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarText">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="{{ site.baseurl }}/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/products/">Products</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/#about">About</a>
+        </li>
+        <li class="nav-item me-1">
+          <a class="nav-link" href="{{ site.baseurl }}/#contact">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="btn btn-primary" href="{{ site.baseurl }}/#visit">Visit Our Shop</a>
+        </li>
+
+      </ul>
     </div>
   </div>
 </nav>
