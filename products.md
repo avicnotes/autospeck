@@ -41,7 +41,7 @@ title: Products
             </p>
             <p>
                 <b>Available types:</b>
-                9.5 Series, A Series, B Series
+                9.5 Series, A Series, B Series, 9.5X Series, AX Series, BX Series
             </p>
         </div>
         <div class="col-12 col-lg-5">
