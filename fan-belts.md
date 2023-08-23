@@ -1,15 +1,18 @@
 ---
 title: Best Fan Belts in Kenya
 layout: default
+permalink: /fan-belts/
 ---
 
 At Autospeck, we're excited to introduce you to our exceptional range of fan belts, designed to cater to the diverse needs of customers across Nairobi, Kenya, and beyond. Our commitment to quality and performance shines through in every product we offer, ensuring that your customers' vehicles and machines have optimum performance.
+
+![Fan Belts](/assets/images/v-belts.jpg)
 
 ## What is a Fan Belt?
 
 A fan belt, also commonly known as a drive belt, is a crucial component within a vehicle's engine system. Its primary function is to drive various auxiliary components, such as the alternator, water pump, power steering pump, and most notably, the engine cooling fan.
 
-Fan belts are a staple in the automotive industry, known for their versatility and reliable power transmission capabilities. At Autospeck, we offer fan belts in various sizes and series to cater to different vehicles and machines:
+Fan belts are a staple in the automotive and agricultural industry, known for their versatility and reliable power transmission capabilities. At Autospeck, we offer fan belts in various sizes and series to cater to different vehicles and machines:
 
 ### 1. Plain Fan Belts
 
@@ -18,6 +21,8 @@ Fan belts are a staple in the automotive industry, known for their versatility a
 - **B Series:** When it comes to heavy-duty applications, the B series fan belts are the go-to choice. Their robust construction and dependable performance make them a favorite for larger vehicles and machinery.
 
 ### 2. Cogged Fan Belts
+
+![Fan Belt on engine](/images/belts-a-cut-series-hero.jpg)
 
 Cogged fan belts, also known as notched belts, are designed to reduce bending resistance, friction, and heat buildup. This design innovation enhances the belt's longevity and efficiency. Autospeck offers cogged fan belts in sizes that match different series:
 
