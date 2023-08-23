@@ -6,7 +6,7 @@ permalink: /fan-belts/
 
 At Autospeck, we're excited to introduce you to our exceptional range of fan belts, designed to cater to the diverse needs of customers across Nairobi, Kenya, and beyond. Our commitment to quality and performance shines through in every product we offer, ensuring that your customers' vehicles and machines have optimum performance.
 
-![Fan Belts](/assets/images/v-belts.jpg)
+<img src="/assets/images/v-belts.jpg" alt="Dayamond Fan Belts" class="img-fluid">
 
 ## What is a Fan Belt?
 
@@ -22,7 +22,7 @@ Fan belts are a staple in the automotive and agricultural industry, known for th
 
 ### 2. Cogged Fan Belts
 
-![Fan Belt on engine](/images/belts-a-cut-series-hero.jpg)
+<img src="/assets/images/belts-a-cut-series-hero.jpg" alt="Fan Belt on engine" class="img-fluid">
 
 Cogged fan belts, also known as notched belts, are designed to reduce bending resistance, friction, and heat buildup. This design innovation enhances the belt's longevity and efficiency. Autospeck offers cogged fan belts in sizes that match different series:
 

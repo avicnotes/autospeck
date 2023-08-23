@@ -6,7 +6,7 @@ permalink: /timing-belts/
 
 Welcome to Autospeck, the leading source for high-quality timing belts in Nairobi, Kenya, serving diverse customers across the entire country. Our dedicated focus on delivering top-tier products makes us the preferred choice for our customers. Explore our comprehensive collection of timing belts meant to keep vehicles running smoothly.
 
-![Timing Belt on engine](/assets/images/timing-belt-big.jpg)
+<img src="/assets/images/timing-belt-big.jpg" alt="Timing Belt on engine" class="img-fluid">
 
 ## What is a Timing Belt?
 
@@ -28,7 +28,7 @@ Timing belts come in various types, each designed to meet specific requirements 
 
 ## Why Choose Our Timing Belts
 
-![Dayamond Timing Belt](/assets/images/timing-belts.jpg)
+<img src="/assets/images/timing-belts.jpg" alt="Dayamond Timing Belt" class="img-fluid">
 
 1. **Uncompromising Quality:** We understand that the backbone of your business is providing products that your customers can trust. Our Dayamond timing belts are sourced from reputable manufacturers renowned for their commitment to quality. Engineered to precision, our belts ensure reliable performance and durability, meeting the demands of even the most discerning customers.
 2. **Extensive Variety:** Every seller caters to a unique market, and we're here to support your diverse needs. Our timing belts collection boasts an extensive variety of options, encompassing various sizes, materials, and specifications. This diversity empowers you to serve an array of vehicle makes and models with confidence.

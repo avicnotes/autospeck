@@ -6,7 +6,7 @@ permalink: /serpentine-belts/
 
 Are you on the hunt for high-quality serpentine belts to keep vehicles running smoothly and efficiently? Look no further! At Autospeck - The Belt Centre, we take immense pride in being your trusted partner in the world of automotive belts across Nairobi, Kenya, and beyond.
 
-![Serpentine Belt on engine](/assets/images/serpentine-belt-on-engine-front-view-big.jpg)
+<img src="/assets/images/serpentine-belt-on-engine-front-view-big.jpg" alt="Serpentine Belt on engine" class="img-fluid">
 
 ## What Are Serpentine Belts?
 
@@ -31,7 +31,7 @@ At Autospeck, we understand that you need a diverse range of options to meet the
 5. **Competitive Wholesale Pricing:** We know that as a seller, your success hinges on finding products that offer great value. Our serpentine belts are competitively priced, allowing you to maintain healthy profit margins while offering your customers affordable yet reliable options.
 6. **Expert Support:** Our team of experts is always ready to assist you. If you have any questions about our serpentine belts or need guidance in selecting the right products for your customers, we're here to help. We're committed to ensuring your business thrives.
 
-![Serpentine Belt on engine](/assets/images/serpentine-belt-on-engine-big.jpg)
+<img src="/assets/images/serpentine-belt-on-engine-big.jpg" alt="Serpentine Belt on engine" class="img-fluid">
 
 ## Maintaining Serpentine Belts: Tips from the Experts**
 
