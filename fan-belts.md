@@ -8,6 +8,7 @@ At Autospeck, we're excited to introduce you to our exceptional range of fan bel
 
 <img src="/assets/images/v-belts.jpg" alt="Dayamond Fan Belts" class="img-fluid">
 
+
 ## What is a Fan Belt?
 
 A fan belt, also commonly known as a drive belt, is a crucial component within a vehicle's engine system. Its primary function is to drive various auxiliary components, such as the alternator, water pump, power steering pump, and most notably, the engine cooling fan.

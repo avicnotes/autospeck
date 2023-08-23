@@ -8,6 +8,7 @@ Welcome to Autospeck, the leading source for high-quality timing belts in Nairob
 
 <img src="/assets/images/timing-belt-big.jpg" alt="Timing Belt on engine" class="img-fluid">
 
+
 ## What is a Timing Belt?
 
 A timing belt is a vital component of an internal combustion engine. Its role is to synchronize the rotation of the engine's camshaft and crankshaft, ensuring that engine valves open and close at the precise moments required for efficient combustion. This synchronization is crucial to prevent any collision between the moving parts within the engine, promoting optimal engine performance.

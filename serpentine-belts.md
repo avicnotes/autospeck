@@ -8,6 +8,7 @@ Are you on the hunt for high-quality serpentine belts to keep vehicles running s
 
 <img src="/assets/images/serpentine-belt-on-engine-front-view-big.jpg" alt="Serpentine Belt on engine" class="img-fluid">
 
+
 ## What Are Serpentine Belts?
 
 Serpentine belts are essential components of a vehicle's engine system. These belts wind around various pulleys to power important auxiliary systems like the alternator, power steering, water pump, and air conditioning. Ensuring your vehicle's serpentine belt is in top-notch condition is vital for optimal performance, fuel efficiency, and safety.
@@ -33,7 +34,8 @@ At Autospeck, we understand that you need a diverse range of options to meet the
 
 <img src="/assets/images/serpentine-belt-on-engine-big.jpg" alt="Serpentine Belt on engine" class="img-fluid">
 
-## Maintaining Serpentine Belts: Tips from the Experts**
+
+## Maintaining Serpentine Belts: Tips from the Experts
 
 Proper maintenance of your customer's serpentine belt can extend its lifespan and keep their vehicle running smoothly:
 
