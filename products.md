@@ -26,6 +26,7 @@ title: Products
               <b>Available types: </b>
               3PK, 4PK, 5PK, 6PK, 7PK, and 8PK Series
           </p>
+          <a href="/serpentine-belts/">Read More</a>
       </div>
       <div class="col-12 col-lg-5">
           <img class="img-fluid" src="/assets/images/serpentine-belt-on-engine-big.jpg">
@@ -41,8 +42,9 @@ title: Products
             </p>
             <p>
                 <b>Available types:</b>
-                9.5 Series, A Series, B Series
+                9.5 Series, A Series, B Series, 9.5X Series, AX Series, BX Series
             </p>
+            <a href="/fan-belts/">Read More</a>
         </div>
         <div class="col-12 col-lg-5">
             <img class="img-fluid" src="/assets/images/cogged-v-belt-on-engine.jpg">
@@ -60,6 +62,7 @@ title: Products
           <b>Available types:</b>
           MR, MY, RU, S8M, YU, ZA, ZB and ZBS series
         </p>
+        <a href="/timing-belts/">Read More</a>
       </div>
       <div class="col-12 col-lg-5">
         <img class="img-fluid" src="/assets/images/timing-belt-closeup.jpg">
