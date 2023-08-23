@@ -1,6 +1,6 @@
 ---
 title: Durable Timing Belts in Kenya
-layout: default
+layout: page
 permalink: /timing-belts/
 ---
 

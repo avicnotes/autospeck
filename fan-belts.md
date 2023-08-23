@@ -1,6 +1,6 @@
 ---
 title: Best Fan Belts in Kenya
-layout: default
+layout: page
 permalink: /fan-belts/
 ---
 

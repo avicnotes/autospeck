@@ -1,6 +1,6 @@
 ---
 title: High Quality Serpentine Belts in Kenya
-layout: default
+layout: page
 permalink: /serpentine-belts/
 ---
 
