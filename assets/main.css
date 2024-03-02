@@ -55,7 +55,7 @@ h3 {
 }
 
 
-.py-6 {
+.py-6, .py-lg-6 {
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
