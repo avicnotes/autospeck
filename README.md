@@ -1,95 +1,45 @@
-# Highness Jekyll Theme
+# Autospeck Jekyll Website
 
------
+---
 
-Based on Poole: the butler for [Jekyll](http://jekyllrb.com), the static site generator. 
+## Prerequisites
 
-[Demo Highness Theme](https://highness-jekyll.netlify.app/)
+Before you begin, ensure you have the following installed on your system:
 
-It's designed and developed by [@_ndugu](https://mobile.twitter.com/_ndugu) to provide a clear and concise foundational theme for a Jekyll wesite.
+- Ruby (recommended version: 2.5.0 or higher)
+- RubyGems
+- GCC and Make
 
-You get a full vanilla Jekyll install with example templates, pages, posts and styles.
-
-![Highness Theme](https://avicnotes.github.io/html-css-projects/article-screenshots/screenshot-highness-theme.png)
-
-
-![Poole-Original](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
-
-See Poole in action with [the demo site](https://demo.getpoole.com).
-
-There are currently two official themes built on Poole:
-
-* [Hyde](https://hyde.getpoole.com)
-* [Lanyon](https://lanyon.getpoole.com)
-
-Individual theme feedback and bug reports should be submitted to the theme's individual repository.
+For installation instructions, visit the [official Jekyll website](https://jekyllrb.com/docs/).
 
 
-## Contents
+## Running the Website
 
-- [Usage](#usage)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+1. **Clone or download the Repository**: Clone the repository of your Jekyll website from GitHub to your local machine using the following command:
 
-
-## Usage
-
-### 1. Install dependencies
-
-Poole is built on Jekyll and uses its built-in SCSS compiler to generate our CSS. Before getting started, you'll need to install the Jekyll gem and related dependencies:
-
-```bash
-$ gem install jekyll jekyll-gist jekyll-sitemap jekyll-seo-tag
+```
+git clone https://github.com/avicndugu/autospeck.git
 ```
 
-**Windows users:** Windows users have a bit more work to do, but luckily [@juthilo](https://github.com/juthilo) has your back with his [Run Jekyll on Windows](https://github.com/juthilo/run-jekyll-on-windows) guide.
+2. **Navigate to the Project Directory**: Use the `cd` command to navigate into the project directory:
 
-**Need syntax highlighting?** Poole includes support for Pygments or Rouge, so install your gem of choice to make use of the built-in styling. Read more about this in the [Jekyll docs](https://jekyllrb.com/docs/liquid/tags/#code-snippet-highlighting).
-
-### 2a. Quick start
-
-To help anyone with any level of familiarity with Jekyll quickly get started, Poole includes everything you need for a basic Jekyll site. To that end, just download Poole and start up Jekyll.
-
-### 2b. Roll your own Jekyll site
-
-Folks wishing to use Jekyll's templates and styles can do so with a little bit of manual labor. Download Poole and then copy what you need (likely `_layouts/`, `*.html` files, `atom.xml` for RSS, and `assets/` for CSS, JS, etc.).
-
-### 3. Running locally
-
-To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/poole` (or whatever your Jekyll site's root directory is named):
-
-```bash
-$ jekyll serve
+```
+cd autospeck
 ```
 
-Open <http://localhost:4000> in your browser, and voilà.
+3. **Install Dependencies**: Run the following command to install the necessary dependencies for your Jekyll website:
 
-### 4. Serving it up
+```
+bundle install
+```
 
-If you host your code on GitHub, you can use [GitHub Pages](https://pages.github.com) to host your project.
+4. **Serve the Website**: Once the dependencies are installed, you can serve your Jekyll website locally using the following command:
 
-1. Fork this repo and switch to the `gh-pages` branch.
-  1. If you're [using a custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages), modify the `CNAME` file to point to your new domain.
-  2. If you're not using a custom domain name, **modify the `baseurl` in `_config.yml`** to point to your GitHub Pages URL. Example: for a repo at `github.com/username/poole`, use `http://username.github.io/poole/`. **Be sure to include the trailing slash.**
-3. Done! Head to your GitHub Pages URL or custom domain.
+```
+bundle exec jekyll serve
+```
 
-No matter your production or hosting setup, be sure to verify the `baseurl` option file and `CNAME` settings. Not applying this correctly can mean broken styles on your site.
-
-## Development
-
-Poole has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are located in `_sass/`, included into `styles.scss`, and compile to `styles.css`.
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
+5. **View the Website**: Open your web browser and navigate to `http://localhost:4000` to view your locally hosted Jekyll website.
 
 
 ## License

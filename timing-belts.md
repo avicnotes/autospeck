@@ -45,4 +45,4 @@ Ordering your desired timing belts from **Autospeck - The Belt Center** is effor
 
 2. **Visit Our Shop:** If you prefer a hands-on experience, you're welcome to visit our physical store located at [Kirinyaga Road, Nairobi, Kenya](#contact). Our team will be delighted to welcome you, showcase our extensive timing belts collection, and help you make the best choices for your inventory.
 
-At [Belts Wholesaler Name], we are committed to serving your needs with excellence. Retail sellers across Kenya rely on us for quality timing belts that drive success. Join our network of satisfied customers and explore our collection today.
+At Autospeck, we are committed to serving your needs with excellence. Retail sellers across Kenya rely on us for quality timing belts that drive success. Join our network of satisfied customers and explore our collection today.
