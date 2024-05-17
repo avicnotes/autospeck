@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automotive Belts in Kenya at Autospeck
+title: Dayamond Automotive Belts in Kenya
 ---
 <section class="bg-secondary-custom py-5">
   <div class="container">
