@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Products
+title: Automotive Belts in Kenya at Autospeck
 ---
 <section class="bg-secondary-custom py-5">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 offset-lg-1">
         <h1 class="pb-4">
-          Our Supply of Belts at Autospeck
+          {{ page.title }}
         </h1>
         <p class="fs-4">
           We take great pride in offering a wide range of high-quality belts designed to meet the diverse needs of the automotive industry. Explore our collection of <b>serpentine</b> belts, <b>V</b> belts, and <b>timing</b> belts, each crafted with precision and reliability in mind.
