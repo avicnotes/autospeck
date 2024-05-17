@@ -1,7 +1,6 @@
 ---
 title: Toyota Belts in Kenya
 layout: page
-permalink: /toyota-belts/
 
 models:
   - name: "Fielder"
