@@ -1,0 +1,31 @@
+{% if page.belt_types -%}
+    <section class="py-5 bg-tertiary-custom" id="products">
+        <div class="container py-lg-5">
+            <h2 class="text-center h1 py-4">
+                {{ page.belt_types.heading }}
+            </h2>
+            <p class="text-center fs-4">
+                {{ page.belt_types.content }}
+            </p>
+            <div class="row py-4 fs-5 text-center">
+                {% for type in page.belt_types.list -%}
+                <div class="col-md-4">
+                    <a class="text-decoration-none" href="{{ type.link }}">
+                        <img class="img-fluid" src="{{ type.image }}" >
+                        <h3 class="pt-3 pb-2">
+                            {{page.belt_types.model }} {{ type.heading }}
+                        </h3>
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+            {% if page.belt_types.button -%}
+            <div class="d-grid gap-3 d-lg-flex justify-content-sm-center">
+                <a href="{{ page.belt_types.button.link }}" class="btn btn-primary btn-lg px-4">
+                    {{ page.belt_types.button.text }}
+                </a>
+            </div>
+            {%- endif %}
+        </div>
+    </section>
+{%- endif %}

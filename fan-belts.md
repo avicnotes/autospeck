@@ -2,6 +2,20 @@
 title: Best Fan Belts in Kenya
 layout: page
 permalink: /fan-belts/
+
+brands:
+  heading: "Available for Popular Vehicle Brands"
+  product: "Timing Belts"
+  list:
+    - name: "Toyota"
+    - name: "Nissan"
+    - name: "Isuzu"
+    - name: "Mazda"
+    - name: "Subaru"
+    - name: "Mitsubishi"
+    - name: "Honda"
+    - name: "Suzuki"
+
 ---
 
 At Autospeck, we're excited to introduce you to our exceptional range of fan belts, designed to cater to the diverse needs of customers across Nairobi, Kenya, and beyond. Our commitment to quality and performance shines through in every product we offer, ensuring that your customers' vehicles and machines have optimum performance.
@@ -30,6 +44,8 @@ Cogged fan belts, also known as notched belts, are designed to reduce bending re
 - **9.5 Series:** These cogged fan belts are perfect for compact applications where space is limited. The notched design enhances flexibility and helps prevent heat-related issues.
 - **AX Series:** Cogged fan belts in the A series are optimized for performance and durability. Their notched structure ensures smoother operation and extended service life.
 - **BX Series:** For heavy-duty applications demanding exceptional power transmission, the BX series cogged fan belts excel. Their design reduces slippage and improves overall efficiency.
+
+{% include brands.html %}
 
 ## Why Choose Our Fan Belts?
 

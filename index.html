@@ -1,71 +1,42 @@
 ---
-layout: default
 title: Home
----
-<div class="bg-secondary-custom py-5">
-    <div class="container py-lg-4 my-lg-4">
-        <div class="row d-flex align-items-center">
-            <div class="col-12 col-lg-7">
-                <p class=" fs-4 fw-semibold">Autospeck Motor Spares | The Belt Centre</p>
-                <h1 class="fs-1 fw-semibold">
-                    Get the best quality timing, serpentine and V belts for your customers
-                </h1>
-                <p class="fs-4">
-                    The leading supplier of serpentine, timing and and alternator belts in kenya and East Africa.
-                </p>
-                <div class="d-grid gap-3 d-lg-flex pt-3 pb-5">
-                    <a href="#visit"   class="btn btn-primary px-5 btn-lg gap-3">Visit Our Shop</a>
-                    <a href="tel:+254704391699" type="button" class="btn btn-outline-primary btn-lg px-4">Call Us Now</a>
-                </div>
-            </div>
-            <div class="col-12 col-lg-5">
-                <img class="img-fluid" src="/assets/images/new-hero-image.jpg">
-            </div>
-        </div>
-    </div>
-</div>
+layout: home
 
-<section class="py-5 bg-tertiary-custom" id="products">
-  <div class="container py-lg-5">
-      <h2 class="text-center h1 py-4">
-          Available Belts
-      </h2>
-      <p class="text-center fs-4">
-          Discover our wide range of belts for vehicles and machines including:
-      </p>
-      <div class="row py-4 fs-5 text-center">
-        <div class="col-md-4">
-          <a class="text-decoration-none" href="/serpentine-belts/">
-              <img class="img-fluid" src="/assets/images/multi-rib-belt.jpg">
-              <h3 class="pt-3 pb-2">
-                  Serpentine Belts
-              </h3>
-          </a>
-        </div>
-        <div class="col-md-4">
-          <a class="text-decoration-none" href="/fan-belts/">
-              <img class="img-fluid" src="/assets/images/v-belts.jpg">
-              <h3 class="pt-3 pb-2">
-                  V-Belts
-              </h3>
-          </a>
-        </div>
-        <div class="col-md-4">
-          <a class="text-decoration-none" href="/timing-belts/">
-              <img class="img-fluid" src="/assets/images/timing-belts.jpg">
-              <h3 class="pt-3 pb-2">
-                  Timing Belts
-              </h3>
-          </a>
-        </div>
-      </div>
-      <div class="d-grid gap-3 d-lg-flex justify-content-sm-center">
-          <a href="products.html" class="btn btn-primary btn-lg px-4">
-              Learn More
-          </a>
-      </div>
-  </div>
-</section>
+hero:
+  label: "Autospeck Motor Spares | The Belt Centre"
+  heading: "Best quality timing, serpentine and alternator belts wholesaler in Kenya"
+  content: "The leading supplier of serpentine, timing and and alternator belts in kenya and East Africa."
+  button_primary:
+    link: "#visit"
+    text: "Visit Our Shop"
+  button_secondary:
+    link: "tel:+254704391699" 
+    text: "Call Us Now"
+  image: 
+    url: "/assets/images/new-hero-image.jpg"
+    alt: "Sample alternator and timing belts"
+
+belt_types:
+  heading: "Available Belt Types"
+  content:  "Discover our wide range of belts for vehicles and machines including:"
+  list: 
+    - heading: "Serpentine Belts"
+      image: "/assets/images/multi-rib-belt.jpg"
+      link: "/serpentine-belts/"
+    - heading: "Alternator belts"
+      image: "/assets/images/v-belts.jpg"
+      link: "/fan-belts/"
+    - heading: "Timing Belts"
+      image: "/assets/images/timing-belts.jpg"
+      link: "/timing-belts/"
+  button:
+    link: "/products/"
+    text: "Learn More"
+---
+
+
+
+
 
 <section class="py-5" id="about">
   <div class="container py-lg-6 col-lg-8">
@@ -78,7 +49,7 @@ title: Home
     </div>
 </section>
 
-<section class="py-5 bg-tertiary-custom">
+<section class="py-5 bg-primary-light-custom">
   <div class="container py-lg-5">
     <h2 class="text-center h1 py-4">
         Industries We Serve

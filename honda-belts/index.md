@@ -1,42 +1,54 @@
 ---
 title: Honda Belts in Kenya
-layout: page
+layout: home
+
+
+hero:
+  heading: "Toyota Automotive Engine Belts Wholesale Supplier in Kenya"
+  content: "Bulk supply of Toyota timing belts, fan belts, serpentine belts, and alternator-belts for retail auto shops across Kenya. Reliable stock for fast-moving Honda models."
+  button_primary:
+    link: "#visit"
+    text: "Visit Our Shop"
+  button_secondary:
+    link: "tel:+254704391699" 
+    text: "Call Us Now"
+  image: 
+    url: "/assets/images/new-hero-image.jpg"
+    alt: "Sample engine belts belts"
+
 models:
-  - name: "CRV"
-  - name: "Civic"
-  - name: "odyssey"
-  - name: "Accord"
-  - name: "Ridgeline"
-  - name: "City"
-  - name: "Pilot"
-  - name: "Fit"
-  - name: "Stream"
-  - name: "Jazz"
+  heading: "Popular Honda Models We Cover"
+  brand: "Honda"
+  product: "serpentine belts"
+  list:
+    - name: "CRV"
+    - name: "Civic"
+    - name: "odyssey"
+    - name: "Accord"
+    - name: "Ridgeline"
+    - name: "City"
+    - name: "Pilot"
+    - name: "Fit"
+    - name: "Stream"
+    - name: "Jazz"
+
+belt_types:
+  heading: "Available Honda Belt Types"
+  content:  "Discover our wide range of belts for Honda vehicles including:"
+  model: "Honda"
+  list: 
+    - heading: "Serpentine Belts"
+      image: "/assets/images/multi-rib-belt.jpg"
+      link: "/honda-serpentine-belts/"
+    - heading: "Alternator belts"
+      image: "/assets/images/v-belts.jpg"
+      link: "/fan-belts/"
+    - heading: "Timing Belts"
+      image: "/assets/images/timing-belts.jpg"
+      link: "/honda-timing-belts/"
 
 ---
 
-We provide high quality belts for a wide range of Honda vehicles, ensuring that each model runs smoothly and efficiently. Explore our selection below to find the perfect belt for your Honda car:
-
-## Honda Timing Belts
-
-<div class="row mt-3">
-  {% for model in page.models %}
-  <div class="col-md-6 col-lg-4 mb-2">
-    <p class="mt-2">{{ model.name }} timing belt</p>
-  </div>
-  {% endfor %}
-</div>
-
-
-## Honda Serpentine Belts
-
-<div class="row mt-3">
-  {% for model in page.models %}
-  <div class="col-md-6 col-lg-4 mb-2">
-    <p class="mt-2">{{ model.name }} serpentine Belts</p>
-  </div>
-  {% endfor %}
-</div>
 
 
 

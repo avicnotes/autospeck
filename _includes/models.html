@@ -1,0 +1,23 @@
+{% if page.models -%}
+    <section class="py-5 bg-primary-light-custom">
+        <div class="container overflow-hidden py-lg-5">
+            <h2 class="text-center h1 py-4">
+                {{ page.models.heading }}
+            </h2>
+            {% if page.models.content -%}
+                <p class="text-center fs-4">
+                    {{ page.models.content }}
+                </p>
+            {%- endif %}
+            <div class="row g-3 py-4 fs-5 text-center">
+                {% for model in page.models.list -%}
+                <div class="col-md-4 col-lg-3 col-xl-2">
+                    <div class="py-3 rounded-2 bg-white">
+                        <h3 class="fs-5 fw-normal">{{ page.models.brand }} {{ model.name }}</h3>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+{% endif %}

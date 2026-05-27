@@ -1,0 +1,30 @@
+{% if page.hero -%}
+    <div class="bg-secondary-custom py-5">
+        <div class="container py-lg-4 my-lg-4">
+            <div class="row d-flex align-items-center">
+                <div class="col-12 col-lg-7">
+                    {% if page.hero.label -%}
+                        <p class=" fs-4 fw-semibold">{{ page.hero.label }}</p>
+                    {%- endif %}
+                    <h1 class="fs-1 fw-semibold"> {{ page.hero.heading }}</h1>
+                    <p class="fs-4"> {{ page.hero.content }}</p>
+                    <div class="d-grid gap-3 d-lg-flex pt-3 pb-5">
+                        {% if page.hero.button_primary -%}
+                            <a href="{{ page.hero.button_primary.link }}"   class="btn btn-primary px-5 btn-lg gap-3">
+                                {{ page.hero.button_primary.text }}
+                            </a>
+                        {%- endif %}
+                        {% if page.hero.button_secondary -%}
+                            <a href="{{ page.hero.button_secondary.link }}" type="button" class="btn btn-outline-primary btn-lg px-4">
+                                {{ page.hero.button_secondary.text }}
+                            </a>
+                        {%- endif %}
+                    </div>
+                </div>
+                <div class="col-12 col-lg-5">
+                    <img class="img-fluid" src="{{ page.hero.image.url }}" alt="{{ page.hero.image.alt }}">
+                </div>
+            </div>
+        </div>
+    </div>
+{%- endif %}

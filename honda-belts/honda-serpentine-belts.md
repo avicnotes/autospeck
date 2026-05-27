@@ -1,30 +1,38 @@
 ---
 title: Honda Serpentine Belts in Kenya
-layout: page
+layout: home
 permalink: /honda-serpentine-belts/
+
+hero:
+  heading: "Honda Serpentine Belts Wholesale Supplier in Kenya"
+  content: "Bulk supply of Honda serpentine belts for retail auto shops across Kenya. Reliable stock for fast-moving Honda models."
+  button_primary:
+    link: "#visit"
+    text: "Visit Our Shop"
+  button_secondary:
+    link: "tel:+254704391699" 
+    text: "Call Us Now"
+  image: 
+    url: "/assets/images/new-hero-image.jpg"
+    alt: "Sample engine belts belts"
+
 models:
-  - name: "CRV"
-  - name: "Civic"
-  - name: "odyssey"
-  - name: "Accord"
-  - name: "Ridgeline"
-  - name: "City"
-  - name: "Pilot"
-  - name: "Fit"
-  - name: "Stream"
-  - name: "Jazz"
+  heading: "Get Serpentine belts for Honda models"
+  brand: "Honda"
+  product: "serpentine belts"
+  list:
+    - name: "CRV"
+    - name: "Civic"
+    - name: "odyssey"
+    - name: "Accord"
+    - name: "Ridgeline"
+    - name: "City"
+    - name: "Pilot"
+    - name: "Fit"
+    - name: "Stream"
+    - name: "Jazz"
 
 ---
-
-We provide high quality serpentine belts for a wide range of Honda vehicles, ensuring that each model runs smoothly and efficiently. Explore our selection below to find the perfect belt for your car:
-
-<div class="row mt-3">
-  {% for model in page.models %}
-  <div class="col-md-6 col-lg-4 mb-2">
-    <p class="mt-2">{{ model.name }} serpentine Belts</p>
-  </div>
-  {% endfor %}
-</div>
 
 
 

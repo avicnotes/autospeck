@@ -2,6 +2,19 @@
 title: Durable Timing Belts in Kenya
 layout: page
 permalink: /timing-belts/
+
+brands:
+  heading: "Available for Popular Vehicle Brands"
+  product: "Timing Belts"
+  list:
+    - name: "Toyota"
+    - name: "Nissan"
+    - name: "Isuzu"
+    - name: "Mazda"
+    - name: "Subaru"
+    - name: "Mitsubishi"
+    - name: "Honda"
+    - name: "Suzuki"
 ---
 
 Welcome to Autospeck, the leading source for high-quality timing belts in Nairobi, Kenya, serving diverse customers across the entire country. Our dedicated focus on delivering top-tier products makes us the preferred choice for our customers. Explore our comprehensive collection of timing belts meant to keep vehicles running smoothly.
@@ -13,6 +26,7 @@ Welcome to Autospeck, the leading source for high-quality timing belts in Nairob
 
 A timing belt is a vital component of an internal combustion engine. Its role is to synchronize the rotation of the engine's camshaft and crankshaft, ensuring that engine valves open and close at the precise moments required for efficient combustion. This synchronization is crucial to prevent any collision between the moving parts within the engine, promoting optimal engine performance.
 
+{% include brands.html %}
 
 ## Types of Timing Belts
 

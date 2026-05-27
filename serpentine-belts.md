@@ -2,6 +2,19 @@
 title: High Quality Serpentine Belts in Kenya
 layout: page
 permalink: /serpentine-belts/
+
+brands:
+  heading: "Available for Popular Vehicle Brands"
+  product: "Timing Belts"
+  list:
+    - name: "Toyota"
+    - name: "Nissan"
+    - name: "Isuzu"
+    - name: "Mazda"
+    - name: "Subaru"
+    - name: "Mitsubishi"
+    - name: "Honda"
+    - name: "Suzuki"
 ---
 
 Are you on the hunt for high-quality serpentine belts to keep vehicles running smoothly and efficiently? Look no further! At Autospeck - The Belt Centre, we take immense pride in being your trusted partner in the world of automotive belts across Nairobi, Kenya, and beyond.
@@ -12,6 +25,8 @@ Are you on the hunt for high-quality serpentine belts to keep vehicles running s
 ## What Are Serpentine Belts?
 
 Serpentine belts are essential components of a vehicle's engine system. These belts wind around various pulleys to power important auxiliary systems like the alternator, power steering, water pump, and air conditioning. Ensuring your vehicle's serpentine belt is in top-notch condition is vital for optimal performance, fuel efficiency, and safety.
+
+{% include brands.html %}
 
 ## Types of Serpentine Belts - Finding the Perfect Fit for Every Vehicle
 
