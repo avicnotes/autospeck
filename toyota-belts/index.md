@@ -95,7 +95,7 @@ belt_types:
       link: "/toyota-serpentine-belts/"
     - heading: "Alternator belts"
       image: "/assets/images/v-belts.jpg"
-      link: "/fan-belts/"
+      link: "/toyota-alternator-belts/"
     - heading: "Timing Belts"
       image: "/assets/images/timing-belts.jpg"
       link: "/toyota-timing-belts/"

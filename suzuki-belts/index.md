@@ -40,7 +40,7 @@ belt_types:
       link: "/suzuki-serpentine-belts/"
     - heading: "Alternator belts"
       image: "/assets/images/v-belts.jpg"
-      link: "/fan-belts/"
+      link: "/suzuki-alternator-belts/"
     - heading: "Timing Belts"
       image: "/assets/images/timing-belts.jpg"
       link: "/suzuki-timing-belts/"

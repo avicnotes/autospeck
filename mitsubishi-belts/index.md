@@ -46,7 +46,7 @@ belt_types:
       link: "/mitsubishi-serpentine-belts/"
     - heading: "Alternator belts"
       image: "/assets/images/v-belts.jpg"
-      link: "/fan-belts/"
+      link: "/mitsubishi-alternator-belts/"
     - heading: "Timing Belts"
       image: "/assets/images/timing-belts.jpg"
       link: "/mitsubishi-timing-belts/"

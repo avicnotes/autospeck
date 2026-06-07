@@ -42,7 +42,7 @@ belt_types:
       link: "/honda-serpentine-belts/"
     - heading: "Alternator belts"
       image: "/assets/images/v-belts.jpg"
-      link: "/fan-belts/"
+      link: "/honda-alternator-belts/"
     - heading: "Timing Belts"
       image: "/assets/images/timing-belts.jpg"
       link: "/honda-timing-belts/"

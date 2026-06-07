@@ -44,7 +44,7 @@ belt_types:
       link: "/mazda-serpentine-belts/"
     - heading: "Alternator belts"
       image: "/assets/images/v-belts.jpg"
-      link: "/fan-belts/"
+      link: "/mazda-alternator-belts/"
     - heading: "Timing Belts"
       image: "/assets/images/timing-belts.jpg"
       link: "/mazda-timing-belts/"
