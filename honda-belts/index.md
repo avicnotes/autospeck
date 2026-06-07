@@ -4,8 +4,8 @@ layout: home
 
 
 hero:
-  heading: "Toyota Automotive Engine Belts Wholesale Supplier in Kenya"
-  content: "Bulk supply of Toyota timing belts, fan belts, serpentine belts, and alternator-belts for retail auto shops across Kenya. Reliable stock for fast-moving Honda models."
+  heading: "Honda Automotive Engine Belts Wholesale Supplier in Kenya"
+  content: "Bulk supply of Honda timing belts, fan belts, serpentine belts, and alternator-belts for retail auto shops across Kenya. Reliable stock for fast-moving Honda models."
   button_primary:
     link: "#visit"
     text: "Visit Our Shop"

@@ -1,6 +1,6 @@
 ---
 title: Toyota Timing Belts in Kenya
-layout: page
+layout: home
 permalink: /toyota-timing-belts/
 
 hero:
@@ -88,9 +88,5 @@ models:
     - name: "Vellfire"
     - name: "Scion TC"
 
-daihatzu:
-  - name: "Sigra"
-  - name: ""
-  - name: ""
 ---
 

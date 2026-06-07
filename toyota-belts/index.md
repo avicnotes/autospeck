@@ -100,14 +100,6 @@ belt_types:
       image: "/assets/images/timing-belts.jpg"
       link: "/toyota-timing-belts/"
 
-daihatzu:
-  - name: "Sigra"
-  - name: "Teiros"
-  - name: "Hijet"
-  - name: "Sirion"
-  - name: ""
-  - name: ""
-  - name: ""
 ---
 
 {% comment %}
