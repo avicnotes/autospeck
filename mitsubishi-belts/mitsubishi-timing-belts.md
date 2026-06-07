@@ -31,8 +31,8 @@ models:
     - name: "Mirage"
     - name: "Colt"
     - name: "Lancer"
-    - name: "Galant Fortis"
-    - name: "Delica (D:5)"
+    - name: "Galant"
+    - name: "Delica"
     - name: "Canter"
     - name: "Rosa"
 

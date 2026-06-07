@@ -30,7 +30,7 @@ models:
     - name: "Colt"
     - name: "Lancer"
     - name: "Galant Fortis"
-    - name: "Delica (D:5)"
+    - name: "Delica"
     - name: "Canter"
     - name: "Rosa"
 
